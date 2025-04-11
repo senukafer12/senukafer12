@@ -9,7 +9,7 @@
 <td width="50%" align="left">
 
 - 🧑‍🎓 I’m an Undergraduate at University of Westminster
-- 🌱 I’m currently learning **Flutter, Spring Boot**
+- 🌱 I’m currently learning **multiple languages**
 - 📫 How to reach me **senukafernando1212@gmail.com**
 
 </td>
