@@ -8,7 +8,7 @@
 <tr border="none">
 <td width="50%" align="left">
 
-- 🧑‍🎓 I’m an Undergraduate at University of Westminster
+- 🧑‍🎓 I’m an Undergraduate at University of Westminster (IIT)
 - 🌱 I’m currently learning **multiple languages**
 - 📫 How to reach me **senukafernando1212@gmail.com**
 
